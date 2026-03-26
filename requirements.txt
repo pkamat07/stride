@@ -3,7 +3,7 @@ google.generativeai
 mistralai>=1.0.0
 openai
 pyGithub
-streamlit>=1.40
+streamlit>=1.54.0
 python-dotenv
 groq
 tiktoken
